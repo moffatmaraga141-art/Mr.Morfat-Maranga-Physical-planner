@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Morfat Maranga | Urban & Regional Planning Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">Morfat Maranga</div>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#gis">GIS Work</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home" class="hero">
+        <div>
+            <p>WELCOME TO MY PORTFOLIO</p>
+            <h1>Hi, I'm Morfat Maranga</h1>
+            <h2>Urban & Regional Planning Student | GIS & Spatial Analysis</h2>
+            <p>
+                Third-year BSc Urban and Regional Planning student at Kenyatta University,
+                passionate about spatial planning, GIS, demographic analysis, and
+                developing practical, community-grounded planning solutions.
+            </p>
+            <a href="#projects" class="button">View My Projects</a>
+            <a href="#contact" class="button outline">Contact Me</a>
+        </div>
+    </section>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>
+            I am a third-year BSc Urban and Regional Planning student at Kenyatta University,
+            in the Department of Spatial and Environmental Planning. I currently serve as
+            class representative and studio spokesperson for the BSP 212 Rural Studio cohort.
+        </p>
+        <p>
+            I have strong grounding in Kenyan planning legislation — including PLUPA No. 13
+            of 2019 and the Constitution of Kenya 2010 — and hands-on experience applying GIS,
+            remote sensing, and demographic analysis to real planning problems.
+        </p>
+    </section>
+
+    <section id="skills">
+        <h2>My Skills</h2>
+        <div class="skills">
+            <div>
+                <h3>GIS</h3>
+                <p>QGIS — spatial analysis, basemap creation, hydrology and terrain analysis, land cover mapping.</p>
+            </div>
+            <div>
+                <h3>Remote Sensing</h3>
+                <p>Satellite imagery analysis and land-cover interpretation.</p>
+            </div>
+            <div>
+                <h3>Demographic Analysis</h3>
+                <p>Population pyramids, growth and doubling time, dependency ratio calculations.</p>
+            </div>
+            <div>
+                <h3>Field Research</h3>
+                <p>Questionnaire design and data collection using KoboCollect.</p>
+            </div>
+            <div>
+                <h3>Planning Legislation</h3>
+                <p>PLUPA No. 13 of 2019, Constitution of Kenya 2010.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="projects">
+        <h2>My Projects</h2>
+        <div class="projects">
+            <div class="project">
+                <h3>Siana Ward LPLUD Plan — Narok County</h3>
+                <p>Rural Studio project: Local Physical and Land Use Development Plan for Siana Ward, Mara Siana Conservancy area. Includes full written report.</p>
+            </div>
+            <div class="project">
+                <h3>Clayworks Neighborhood Plan</h3>
+                <p>Neighborhood-scale planning project with written report.</p>
+            </div>
+            <div class="project">
+                <h3>Biashara Ward Plan</h3>
+                <p>Ward-level planning project.</p>
+            </div>
+            <div class="project">
+                <h3>Dandora Wayleave Park (Site Plan)</h3>
+                <p>Site-level planning and design project.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="gis">
+        <h2>GIS & Technical Work</h2>
+        <div class="projects">
+            <div class="project">
+                <h3>Siana Basemap</h3>
+                <p>Base mapping produced in QGIS to support the Siana Ward LPLUD Plan.</p>
+            </div>
+            <div class="project">
+                <h3>Kiambu Remote Sensing</h3>
+                <p>Satellite imagery analysis for Kiambu study area.</p>
+            </div>
+            <div class="project">
+                <h3>Kiambu Integrated GIS (Ongoing)</h3>
+                <p>Hydrology, terrain, and land cover analysis completed so far — more layers to be added on completion.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>Interested in connecting or working together?</p>
+        <p>Email: <strong>YOUR EMAIL HERE</strong></p>
+    </section>
+
+    <footer>
+        <p>© 2026 Morfat Maranga. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
