@@ -27,19 +27,10 @@ GIS and spatial planning.
 
 [View Siana Ward Project](siana-ward-plan/README.md)
 
----
-
-### 2. Biashara Ward Plan
-**Project Type:** Physical Planning
-
-Planning analysis and development proposals addressing spatial,
-land-use and development conditions within the study area.
-
-[View Biashara Ward Project](biashara-ward-plan/README.md)
 
 ---
 
-### 3. Clayworks Neighbourhood Masterplan
+### 2. Clayworks Neighbourhood Masterplan
 **Project Type:** Neighbourhood Planning
 
 A neighbourhood-scale planning project involving land-use zoning,
@@ -50,7 +41,7 @@ transit-oriented development considerations.
 
 ---
 
-### 4. Dandora Wayleave Modern Park
+### 3. Dandora Wayleave Modern Park
 **Project Type:** Site Planning
 
 A site planning proposal for the transformation of a power-line
